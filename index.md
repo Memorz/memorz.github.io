@@ -19,7 +19,7 @@
 0.0.0.0 uspider.yuanshen.com﻿
 ```
 
-![此图片的alt属性为空；文件名为image-2.png](https://memorz.top/wp-content/uploads/2022/05/image-2.png)
+![此图片的alt属性为空；文件名为image-2.png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter1.jpg)
 
 如果还要玩官服的话，玩官服之前删除掉hosts文件中的这几行，玩Grasscutter的时候重新加上。
 
@@ -54,7 +54,7 @@
 
 在 `D:\Grasscutter\mongodb` 中新建一个 `db` 文件夹用于保存数据库文件（以上所罗列出的文件夹没有的话就创建，本来你就该创建，别到群里又问为什么我没有这个文件夹，动一动脑子😅）。
 
-![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D2png](https://memorz.top/wp-content/uploads/2022/04/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D2.png)
+![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D2png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter2.jpg)
 
 ## 配置环境
 
@@ -62,17 +62,17 @@
 
 前往✈️频道下载[**最新的Grasscutter的Dev分支**](https://t.me/GrasscutterArchives)，下载完成后将其解压至 `D:\Grasscutter` 下，并重命名为 `grasscutter.jar` ，然后双击该文件，或者在该目录下打开 cmd，输入 `java -jar grasscutter.jar` 来运行该文件，运行一次后服务器会自动关闭并生成**配置文件**与**不完整的目录结构**。
 
-![此图片的alt属性为空；文件名为image3png](https://memorz.top/wp-content/uploads/2022/05/image-3.png)
+![此图片的alt属性为空；文件名为image3png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter3.jpg)
 
 ### 配置所需环境
 
 下载 [**Grasscutter_Resources 仓库**](https://github.com/Koko-boya/Grasscutter_Resources) 和  [**gi-bin-output 仓库**](https://github.com/spencerbonilla/gi-bin-output)，将 `Resources （来自于Grasscutter_Resources仓库）` 中除 `BinOutput` 的所有部分放入 `` `D:\Grasscutter` `` 文件夹中的 `resources` 中,将 `2.5.52/Data （来自于gi-bin-output仓库）`文件夹下的 `_BinOutput` 文件夹重命名为 `BinOutput` 并放入 `` `D:\Grasscutter` `` 文件夹中的 `resources` 中。
 
-![此图片的alt属性为空；文件名为image5png](https://memorz.top/wp-content/uploads/2022/05/image-5.png)
+![此图片的alt属性为空；文件名为image5png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter4.jpg)
 
 下载 [**Grasscutter 仓库development分支**](https://github.com/Grasscutters/Grasscutter/tree/development)，将其中的 `data`, `keys` 文件夹和 `keystore.p12` 文件放入 `` `D:\Grasscutter` `` 文件夹中。
 
-![此图片的alt属性为空；文件名为image6png](https://memorz.top/wp-content/uploads/2022/05/image-6.png)
+![此图片的alt属性为空；文件名为image6png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter5.jpg)
 
 ## 运行数据库
 
@@ -86,7 +86,7 @@ mongod --dbpath "D:\Grasscutter\mongodb\db"
 
 如果有数据输出，且没有结束运行，则此步已配置正确，**不要关闭此 `cmd` 窗口，保持后台运行**。
 
-![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D3png](https://memorz.top/wp-content/uploads/2022/04/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D3.png)
+![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D3png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter6.jpg)
 
 ## 运行服务端
 
@@ -100,7 +100,7 @@ java -jar grasscutter.jar
 
 此时如果没有端口冲突并且 `mongodb` 也在后台同时运行，那么服务器端将正常运行。
 
-![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D4png](https://memorz.top/wp-content/uploads/2022/04/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D4.png)
+![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D4png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter7.jpg)
 
 运行成功后你需要输入 `account create 用户名 用户id（即 uid）` 来创建你的游戏账号。
 
@@ -110,11 +110,11 @@ java -jar grasscutter.jar
 
 PS：启动器支持中文，想设置成中文的可以点右上角设置，language 框选 simplified Chinese 就行。
 
-![此图片的alt属性为空；文件名为image1024x576png](https://memorz.top/wp-content/uploads/2022/05/image-1024x576.png)
+![此图片的alt属性为空；文件名为image1024x576png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter8.jpg)
 
 下载并配置代理
 
-![此图片的alt属性为空；文件名为image11024x576png](https://memorz.top/wp-content/uploads/2022/05/image-1-1024x576.png)
+![此图片的alt属性为空；文件名为image11024x576png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter9.jpg)
 
 **如果启动游戏后在登录界面发现还是跟国服登录界面一样的话，那么恭喜你，失败了🤡。成功的话启动游戏后登录界面是国际服登录界面（哪怕你客户端是国服）。**
 
@@ -122,16 +122,16 @@ PS：启动器支持中文，想设置成中文的可以点右上角设置，lan
 
 下载[**GrassClipper-X-1.0.0-win-x64.7z**](https://cup163.lanzouf.com/iSi4k03vvrsb)，解压到任意目录（非 Grasscutter 文件夹），打开里面的 `GrassClipper.exe` 按照下图进行配置。**注意**：第二步选择游戏路径一定要选择到 Genshin Impact Game 文件夹下的GenshinImpact.exe（国际服）或yuanshen.exe（国服），第四步一定要锁上，不要解锁，第七步记得勾选 Custom Server。
 
-![此图片的alt属性为空；文件名为image31024x597png](https://memorz.top/wp-content/uploads/2022/04/image-3-1024x597.png)
+![此图片的alt属性为空；文件名为image31024x597png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter10.jpg)
 
 
 ## 游戏内指令
 
 游戏内切换场景、获取角色命之座、材料、物品等需要在对话框使用指令，具体看下图：
 
-![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D8png](https://memorz.top/wp-content/uploads/2022/04/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D8.png)
+![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D8png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter11.jpg)
 
-![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D9png](https://memorz.top/wp-content/uploads/2022/04/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D9.png)
+![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D9png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/GRasscutter12.jpg)
 
 如果显示暂无会话外的好友就在好友列表选择 Server 打开聊天框即可
 
@@ -145,7 +145,7 @@ PS：启动器支持中文，想设置成中文的可以点右上角设置，lan
 
 现在以获取万叶为例，在对话框输入`/givec 1660(自己的uid) 10000047`
 
-![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D10png](https://memorz.top/wp-content/uploads/2022/04/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D10.png)
+![此图片的alt属性为空；文件名为%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D10png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter13.jpg)
 
 **注意：**在对话框输入指令时必须加上斜杠“/”或感叹号 “!”，否则无法识别。
 
@@ -167,7 +167,7 @@ PS：启动器支持中文，想设置成中文的可以点右上角设置，lan
 
 如果出现下图情况则证明端口被占用
 
-![此图片的alt属性为空；文件名为image21024x462png](https://memorz.top/wp-content/uploads/2022/04/image-2-1024x462.png)
+![此图片的alt属性为空；文件名为image21024x462png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter14.jpg)
 
 解决办法：[**点此跳转**](https://jingyan.baidu.com/article/90808022bdd680bc91c80f99.html)
 
@@ -203,7 +203,7 @@ Grassclipper下的ext文件夹是在你install proxy的时候自动创建的，�
 
 出现下图一模一样的错误即为jdk版本不对，更换jdk版本。
 
-![此图片的alt属性为空；文件名为image11024x538png](https://memorz.top/wp-content/uploads/2022/04/image-1-1024x538.png)
+![此图片的alt属性为空；文件名为image11024x538png](https://github.com/Memorz/memorz.github.io/blob/62a254cbc872ae24a66283f2b1dc4c9cbf16bfd5/photo/Grasscutter15.jpg)
 
 ### 打开GrassClipper启动器出现白屏
 
