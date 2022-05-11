@@ -26,7 +26,7 @@
 ## 阅前须知
 本教程不欢迎**不会动手的人、不善于利用搜索引擎**和不懂[**提问的艺术**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)的人使用，如果您是以上所罗列出的类型，那么请现在放弃搭建的想法并关闭此教程。
 
-**文章链接中的文件更新不及时，故建议前往[✈️**群聊**](https://t.me/genkitCN_chat)获取。**
+**文章链接中的文件更新不及时，故建议前往[✈️群聊](https://t.me/genkitCN_chat)获取。**
 
 本地搭建支持使用官服客户端，不必将官服转换为国际服。
 
@@ -36,11 +36,11 @@
 
 **如果只是想电脑本地部署并游玩，或者在服务器上部署并且只在电脑上游玩，本教程完全适合你，但要是还想在手机上游玩的话，推荐使用隔壁大佬们的教程：**
 
-**[原神 2.6 私服启动教程2.2——虚之亚洛克OTOOBLOG](https://blog.otoo.top/Blog/Genshin2-6-Grasscutters/)**
+[**原神 2.6 私服启动教程2.2——虚之亚洛克OTOOBLOG**](https://blog.otoo.top/Blog/Genshin2-6-Grasscutters/)
 
-**[GenshinTJ——荼蘼博客](https://blog.tomys.top/2022-04/genshintj/?_gl=1*90xya1*_ga*ODEzMjQ1MDQuMTY1MTIxMzU2Mg..*_ga_N194P9LRRJ*MTY1MTM2ODk4My4xMi4xLjE2NTEzNzAxNDEuMA..)**
+[**GenshinTJ——荼蘼博客**](https://blog.tomys.top/2022-04/genshintj/?_gl=1*90xya1*_ga*ODEzMjQ1MDQuMTY1MTIxMzU2Mg..*_ga_N194P9LRRJ*MTY1MTM2ODk4My4xMi4xLjE2NTEzNzAxNDEuMA..)
 
-[**📥 获取服务端 | GenKit Wiki (mhysb.xyz)**](https://genkit.mhysb.xyz/docs/quick-start/get-server)
+[**获取服务端 | GenKit Wiki (mhysb.xyz)**](https://genkit.mhysb.xyz/docs/quick-start/get-server)
 
 ## 安装 JDK-17.0.3
 
@@ -169,7 +169,7 @@ PS：启动器支持中文，想设置成中文的可以点右上角设置，lan
 
 ![此图片的alt属性为空；文件名为image21024x462png](https://memorz.top/wp-content/uploads/2022/04/image-2-1024x462.png)
 
-解决办法：**[点此跳转](https://jingyan.baidu.com/article/90808022bdd680bc91c80f99.html)**
+解决办法：[**点此跳转**](https://jingyan.baidu.com/article/90808022bdd680bc91c80f99.html)
 
 或者使用该工具：[**点此下载**](https://cup163.lanzouf.com/iOFB303r92re)
 
@@ -233,6 +233,4 @@ Grassclipper下的ext文件夹是在你install proxy的时候自动创建的，�
 
 ## 写在最后
 
-如果部署过程中出现问题，欢迎评论区留言或者**[加群](https://t.me/+nMAE7aGJlmczZGM9)**反馈（个人建议前往群聊，留言不一定能看见）。
-
-如果此教程有帮到你的话，可以打赏一只鸡腿嘛QAQ
+如果部署过程中出现问题，欢迎[**加群**](https://t.me/+nMAE7aGJlmczZGM9)反馈。
