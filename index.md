@@ -24,17 +24,17 @@
 如果还要玩官服的话，玩官服之前删除掉hosts文件中的这几行，玩Grasscutter的时候重新加上。
 
 ## 阅前须知
-本教程不欢迎不会动手的人、不善于利用搜索引擎和不懂[提问的艺术](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)的人使用，如果您是以上所罗列出的类型，那么请现在放弃搭建的想法并关闭此教程。
+本教程不欢迎**不会动手的人、不善于利用搜索引擎**和不懂[**提问的艺术**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)的人使用，如果您是以上所罗列出的类型，那么请现在放弃搭建的想法并关闭此教程。
 
-**文章链接中的文件更新不及时，故建议前往[✈️群聊](https://t.me/genkitCN_chat)获取。**
+**文章链接中的文件更新不及时，故建议前往[✈️**群聊**](https://t.me/genkitCN_chat)获取。**
 
 本地搭建支持使用官服客户端，不必将官服转换为国际服。
 
 安卓部署Grasscutter简易教程（需root）：[**点此跳转**](https://www.chitang.tech/posts/grasscutter-android/)。
 
-本教程基于[**中文简易版教程**](https://telegra.ph/Grasscutter-CN-04-21)制作，部分参考[**Overview - GrassCutter Docs zh_CN (Unofficial)**](https://www.grasscutter.cf/) 和 [**Hello from GenKit Wiki | GenKit Wiki (mhysb.xyz)**](https://genkit.mhysb.xyz/)。
+本教程基于[**中文简易版教程**](https://telegra.ph/Grasscutter-CN-04-21)制作，部分参考[**Overview - GrassCutter Docs zh_CN (Unofficial)**](https://www.grasscutter.cf/) 和 [**GenKit Wiki**](https://genkit.mhysb.xyz/)。
 
-如果只是想电脑本地部署并游玩，或者在服务器上部署并且只在电脑上游玩，本教程完全适合你，但要是还想在手机上游玩的话，推荐使用隔壁大佬们的教程：
+**如果只是想电脑本地部署并游玩，或者在服务器上部署并且只在电脑上游玩，本教程完全适合你，但要是还想在手机上游玩的话，推荐使用隔壁大佬们的教程：**
 
 **[原神 2.6 私服启动教程2.2——虚之亚洛克OTOOBLOG](https://blog.otoo.top/Blog/Genshin2-6-Grasscutters/)**
 
@@ -44,7 +44,7 @@
 
 ## 安装 JDK-17.0.3
 
-[admonition title="注意" color="red"]最新开发版必须使用 jdk 17，不要装17以下的，也不要装18。[/admonition]
+**注意：最新开发版必须使用 jdk 17，不要装17以下的，也不要装18。**
 
 **[点此下载](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)** Java SE Development Kit 17.0.3.1 x64 Installer 并安装，安装完以后打开 cmd，输入 `java -version`，如果输出为 `java version "17.0.3.1"` 则可以进行下一步，如果并没有输出 Java 版本号，则需要自行将 `xxx\Oracle\Java\javapath` 加入系统环境变量 Path 中（如何加入 Path 自行百度）。
 
@@ -116,15 +116,14 @@ PS：启动器支持中文，想设置成中文的可以点右上角设置，lan
 
 ![此图片的alt属性为空；文件名为image11024x576png](https://memorz.top/wp-content/uploads/2022/05/image-1-1024x576.png)
 
-[alert]如果启动游戏后在登录界面发现还是跟国服登录界面一样的话，那么恭喜你，失败了🤡。成功的话启动游戏后登录界面是国际服登录界面（哪怕你客户端是国服）。[/alert]
+**如果启动游戏后在登录界面发现还是跟国服登录界面一样的话，那么恭喜你，失败了🤡。成功的话启动游戏后登录界面是国际服登录界面（哪怕你客户端是国服）。**
 
-[collapse title="GrassClipper打开不了或者打开后白屏的话点此查看解决办法" color="indigo"]
+### 打开不了或者打开后白屏的话点此查看解决办法
 
-下载**[GrassClipper-X-1.0.0-win-x64.7z](https://cup163.lanzouf.com/iSi4k03vvrsb)**，解压到任意目录（非 Grasscutter 文件夹），打开里面的 `GrassClipper.exe` 按照下图进行配置。**注意：**第二步选择游戏路径一定要选择到 Genshin Impact Game 文件夹下的GenshinImpact.exe（国际服）或yuanshen.exe（国服），第四步一定要锁上，不要解锁，第七步记得勾选 Custom Server。
+下载[**GrassClipper-X-1.0.0-win-x64.7z**](https://cup163.lanzouf.com/iSi4k03vvrsb)，解压到任意目录（非 Grasscutter 文件夹），打开里面的 `GrassClipper.exe` 按照下图进行配置。**注意**：第二步选择游戏路径一定要选择到 Genshin Impact Game 文件夹下的GenshinImpact.exe（国际服）或yuanshen.exe（国服），第四步一定要锁上，不要解锁，第七步记得勾选 Custom Server。
 
 ![此图片的alt属性为空；文件名为image31024x597png](https://memorz.top/wp-content/uploads/2022/04/image-3-1024x597.png)
 
-[/collapse]
 
 ## 游戏内指令
 
@@ -152,7 +151,7 @@ PS：启动器支持中文，想设置成中文的可以点右上角设置，lan
 
 完整指令列表**[点此获取](https://cup163.lanzouf.com/iM0Bt0433ddc)**
 
-[admonition color="indigo"]不想狼狈地在指令列表里找对应命令？看这里就对了，前往下载**[GrasscutterTools-命令生成工具](https://github.com/jie65535/GrasscutterCommandGenerator)**，想省时间的你值得拥有（doge）。该工具如若报毒属正常现象，担心的可以不用。或者使用网页端[**GrasscutterTools**](https://wmn1525.github.io/grasscutterTools/dist/index.html#/)也可以。[/admonition]
+**不想狼狈地在指令列表里找对应命令？看这里就对了，前往下载**[GrasscutterTools-命令生成工具](https://github.com/jie65535/GrasscutterCommandGenerator)**，想省时间的你值得拥有（doge）。该工具如若报毒属正常现象，担心的可以不用。或者使用网页端[GrasscutterTools](https://wmn1525.github.io/grasscutterTools/dist/index.html#/)也可以。**
 
 ## 全卡池
 
